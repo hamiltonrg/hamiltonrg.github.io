@@ -1,1 +1,0 @@
-# hamiltonrg.github.io
