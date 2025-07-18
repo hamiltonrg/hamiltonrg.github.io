@@ -13,7 +13,7 @@ This is my basic understanding—there may be some inaccuracies or simplificatio
 
 2. **Embedding**
 
-   * A pretrained embedding model converts tokens into vectors. The model captures the meaning/semantic of the word as part of the training.  The model may or may not be built into the LLM, although most are.  The embedding models vary in how they work—some may develop vectors based on just the words themselves, while others may look at the surrounding words too for better context.
+   * A pretrained embedding model converts tokens into vectors. The model captures the meaning/semantics of the word as part of the training.  The model may or may not be built into the LLM, although most are.  The embedding models vary in how they work—some may develop vectors based on just the words themselves, while others may look at the surrounding words too for better context.
 
      * Example resource: [https://vectors.nlpl.eu/explore/embeddings/en/#](https://vectors.nlpl.eu/explore/embeddings/en/#)
 
