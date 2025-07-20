@@ -24,6 +24,10 @@ Contains information I want to record, examples, tips and tricks, etc...
 
 ### Linux
 
+#### Regex
+
+[Regex Cheat Sheet](./regex.md)
+
 ## Terms and Phrases
 
 These are terms that are either uncommon, used inconsistently, or important enough to define clearly. Some of these may be my own phrasing or interpretations, not necessarily industry standards.
